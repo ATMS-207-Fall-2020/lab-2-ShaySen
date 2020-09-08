@@ -1,7 +1,6 @@
 ### PROBLEM 3
 
-def main():
-    print("hello world!")
-
-if __name__ == "__main__":
-    main()
+degF= 80
+degC= (degF-32) * 5/9
+print (degC)
+# 26.666666666666668 
